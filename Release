@@ -1,0 +1,8 @@
+Origin: moren repo
+Label: moren repo
+Suite: stable
+Version: 1.0
+Codename: moren
+Architectures: iphoneos-arm
+Components: main
+Description: Your Repo Description
